@@ -1,10 +1,11 @@
 # Gentoo_Configs
 
-### plasma-pa 
+Languages   [中文](./README-zh.md)
 
-在KDE中自带的管理音频的工具是plasma-pa
+![1683658986779](image/README/1683658986779.png)
+![1683659016827](image/README/1683659016827.png)
 
-```bash
-sudo emerge --ask plasma-pa
-# 用这条命令安装
-```
+## Menus
+
+### [Kde-Configs](./Docs/Kde-Configs.md)
+### [Fonts-Configs](./Docs/Fonts.md)
