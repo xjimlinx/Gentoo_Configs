@@ -1,6 +1,6 @@
 ### Kde-Configs
 
-Languages    [中文](./Kde-Configs.md)
+Languages    [中文](./Kde-Configs-zh.md)
 
 #### plasma-pa
 
